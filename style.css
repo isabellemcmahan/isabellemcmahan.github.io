@@ -1,5 +1,5 @@
 header
-{background-color: #D6A0F4;
+{ background-color: #D6A0F4;
   font-family: "times new roman", fantasy;
   font-size: 2.5em;
 }
@@ -12,7 +12,7 @@ aside {
   float: left;
 }
 footer
-{background-color: #D6A0F4;
+{ background-color: #D6A0F4;
   font-family: "times new roman", fantasy;
   font-size: 1em;
 }
